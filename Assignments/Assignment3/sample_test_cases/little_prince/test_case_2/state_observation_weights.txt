@@ -1,0 +1,20 @@
+state_observation_weights
+18 3 6 0
+"S0" "Rose" 25
+"S0" "Lake" 48
+"S0" "Tree" 41
+"S0" "Grass" 64
+"S0" "Sun" 15
+"S0" "Volcano" 79
+"S1" "Rose" 73
+"S1" "Lake" 39
+"S1" "Tree" 71
+"S1" "Grass" 27
+"S1" "Sun" 91
+"S1" "Volcano" 24
+"S2" "Rose" 89
+"S2" "Lake" 96
+"S2" "Tree" 42
+"S2" "Grass" 70
+"S2" "Sun" 83
+"S2" "Volcano" 57

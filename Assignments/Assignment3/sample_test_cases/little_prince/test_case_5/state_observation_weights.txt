@@ -1,0 +1,27 @@
+state_observation_weights
+25 5 5 0
+"S0" "Volcano" 17
+"S0" "Rose" 90
+"S0" "Sun" 44
+"S0" "Apple" 74
+"S0" "Tulip" 69
+"S1" "Volcano" 9
+"S1" "Rose" 11
+"S1" "Sun" 29
+"S1" "Apple" 51
+"S1" "Tulip" 5
+"S2" "Volcano" 9
+"S2" "Rose" 84
+"S2" "Sun" 59
+"S2" "Apple" 56
+"S2" "Tulip" 75
+"S3" "Volcano" 77
+"S3" "Rose" 12
+"S3" "Sun" 77
+"S3" "Apple" 98
+"S3" "Tulip" 29
+"S4" "Volcano" 57
+"S4" "Rose" 58
+"S4" "Sun" 7
+"S4" "Apple" 55
+"S4" "Tulip" 15

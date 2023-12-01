@@ -1,0 +1,8 @@
+observation_actions
+6
+"Tulip" "Backward"
+"Nothing" "Turnaround"
+"Nothing" "Backward"
+"Tree" "Forward"
+"Tree" "Backward"
+"Moon"

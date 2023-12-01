@@ -1,0 +1,5 @@
+state_weights
+3 0
+"S0" 2
+"S1" 5
+"S2" 2

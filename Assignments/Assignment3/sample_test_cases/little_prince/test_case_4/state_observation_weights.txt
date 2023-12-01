@@ -1,0 +1,17 @@
+state_observation_weights
+15 5 3 0
+"S0" "Volcano" 84
+"S0" "Moon" 32
+"S0" "Nothing" 81
+"S1" "Volcano" 78
+"S1" "Moon" 7
+"S1" "Nothing" 38
+"S2" "Volcano" 67
+"S2" "Moon" 79
+"S2" "Nothing" 24
+"S3" "Volcano" 87
+"S3" "Moon" 64
+"S3" "Nothing" 89
+"S4" "Volcano" 21
+"S4" "Moon" 90
+"S4" "Nothing" 39

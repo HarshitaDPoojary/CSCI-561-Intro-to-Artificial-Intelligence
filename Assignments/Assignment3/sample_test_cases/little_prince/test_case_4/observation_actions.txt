@@ -1,0 +1,9 @@
+observation_actions
+7
+"Nothing" "Backward"
+"Moon" "Forward"
+"Nothing" "Forward"
+"Nothing" "Forward"
+"Nothing" "Turnaround"
+"Volcano" "Turnaround"
+"Moon"

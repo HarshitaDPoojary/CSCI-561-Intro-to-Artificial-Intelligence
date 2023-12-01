@@ -1,0 +1,11 @@
+state_observation_weights
+9 3 3 0
+"S0" "Volcano" 4
+"S0" "Moon" 1
+"S0" "Tree" 2
+"S1" "Volcano" 5
+"S1" "Moon" 3
+"S1" "Tree" 1
+"S2" "Volcano" 1
+"S2" "Moon" 5
+"S2" "Tree" 5
